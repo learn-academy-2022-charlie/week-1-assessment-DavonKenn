@@ -21,6 +21,8 @@ const temp1 = 42
 const temp2 = 350
 const temp3 = 212
 
+const()
+
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
 
